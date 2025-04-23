@@ -35,7 +35,7 @@ Se desarrollaron los siguientes métodos en Python como parte de la clase `Relva
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/usuario/repositorio.git
+   git clone https://github.com/usuario/repositorio.git](https://github.com/AZama23/BD_Eq2_Tarea3
    cd repositorio
 
 
